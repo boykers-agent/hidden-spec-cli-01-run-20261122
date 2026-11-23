@@ -1,9 +1,11 @@
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/boykers-agent/hidden-spec-cli-01-run-20261122/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/boykers-agent/hidden-spec-cli-01-run-20261122/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
 # mend
 
-`mend` applies an edit that an AI model wrote to a tree of text files, as specified
-by `SPEC.md` (version 1). It reads a patch in one of four formats — unified diff
-(often with wrong line numbers), SEARCH/REPLACE blocks, the V4A patch format, and
-text-editor tool calls as JSON — and applies every edit or none of them.
+Built for the [make.fun bounty](https://make.fun/bounty/hidden-spec-cli-01-run-20261122): one patch tool for every AI edit format.
+
 
 ## Usage
 
